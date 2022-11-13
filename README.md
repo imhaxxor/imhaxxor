@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="#"><img src="https://preview.redd.it/e2osw2995p571.jpg?auto=webp&s=849e148e214e1e5bf79e2977d1d2058d6408b28d" alt="NinoMusic"></a>
+  <a href="#"><img src="https://wallpaperaccess.com/full/930883.jpg" alt="NinoMusic"></a>
 </h1>
 
 ### Hi there, I'm Wilard - aka [Sahil Malla][website] 👋 

@@ -22,7 +22,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://www.facebook.com/sahil.malla.3572" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Ffacebook-logo%2F&psig=AOvVaw2dDZqX0bHkW4eyI4IcSROQ&ust=1668003719927000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKCa1p7knvsCFQAAAAAdAAAAABAE" />][facebook]
+[<img align="left" alt="https://www.facebook.com/sahil.malla.3572" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/640px-Facebook_f_logo_%282019%29.svg.png" />][facebook]
 [<img align="left" alt="sahilmalla.com.np" width="22px" src="https://sadgesenpai.ml/images/nino1.jpg" />][website]
 [<img align="left" alt="SadSenpai | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/800px-YouTube_social_red_circle_%282017%29.svg.png" />][youtube]
 [<img align="left" alt="SkyAnime | Discord" width="22px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />][discord]

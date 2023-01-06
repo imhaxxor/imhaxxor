@@ -3,6 +3,10 @@
 </h1>
 
 ### Hi there, I'm Wilard - aka [Sahil Malla][website] 👋 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/rishavchanda/count.svg" />
+</p>
 
 [![Website](https://img.shields.io/website?label=entertomy.systems&style=for-the-badge&url=https%3A%2F%2Fentertomy.systems)](https://entertomy.systems/)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3FD5fmDj2S3hbWx08KoMqA?label=SadSenpai&logo=Youtube&logoColor=%23FF0000&style=for-the-badge)](https://youtube.com/wilardzysenpai)

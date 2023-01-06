@@ -1,73 +1,30 @@
-<h1 align="center">
-  <a href="#"><img src="https://wallpaperaccess.com/full/930883.jpg" alt="NinoMusic"></a>
-</h1>
+<h1 align="center">Hi 👋, I'm Sahil Malla</h1>
+<h3 align="center">Hi there 🙆‍♀️, I'm Sahil, a newly developer with a passion for design and content creation.</h3>
 
-### Hi there, I'm Wilard - aka [Sahil Malla][website] 👋 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmallanp&label=Profile%20views&color=0e75b6&style=flat" alt="sahilmallanp" /> </p>
 
-[![Website](https://img.shields.io/website?label=entertomy.systems&style=for-the-badge&url=https%3A%2F%2Fentertomy.systems)](https://entertomy.systems/)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3FD5fmDj2S3hbWx08KoMqA?label=SadSenpai&logo=Youtube&logoColor=%23FF0000&style=for-the-badge)](https://youtube.com/wilardzysenpai)
-[![Discord](https://img.shields.io/discord/1039546836253425664?label=Studious%20Coders&logo=Discord&logoColor=%235865F2&style=for-the-badge)](https://discord.gg/6BQCyhd8z7)
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rishavchanda/count.svg" />
+- 🔭 I’m currently **Studying 12th.**
+
+- 🌱 I’m currently learning **everything**
+
+- 🤝 I’m looking for help with **finding projects to contribute to!**
+
+- 👨‍💻 All of my projects are available at [http://entertomy.systems/](http://entertomy.systems/)
+
+- 📫 How to reach me **lifehaker12@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/sahil.malla.3572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sahil.malla.3572" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/lirazimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lirazimi/" height="30" width="40" /></a>
+<a href="https://discord.gg/6BQCyhd8z7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6BQCyhd8z7" height="30" width="40" /></a>
 </p>
 
-## I'm a Students, Developer, and a Weeb :D
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-- ⏰ Trying my best to live
-- 🎴 I’m currently learning nothing 😐
-- 🎭 2021-2022 Goals: Finish all my works 🙂
-- 🎉 Fun fact: I love your mom & sis...
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilmallanp&show_icons=true&locale=en&layout=compact" alt="sahilmallanp" /></p>
 
-<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilmallanp&show_icons=true&locale=en" alt="sahilmallanp" /></p>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilmallanp&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmallanp&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
-
-### Connect with me:
-
-[<img align="left" alt="https://www.facebook.com/sahil.malla.3572" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/640px-Facebook_f_logo_%282019%29.svg.png" />][facebook]
-[<img align="left" alt="https://entertomy.system" width="22px" src="https://sadgesenpai.ml/images/nino1.jpg" />][website]
-[<img align="left" alt="SadSenpai | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/800px-YouTube_social_red_circle_%282017%29.svg.png" />][youtube]
-[<img align="left" alt="SkyAnime | Discord" width="22px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />][discord]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-<br />
-<br />
-
-----
-
-
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-  <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#296](https://github.com/sahilmallanp/NecroAtomicBot/issues/296) in [Siris2314/NecroAtomicBot](https://github.com/Siris2314/NecroAtomicBot)
-  <!--END_SECTION:activity-->
-  
-
-</details>
-
-</details>
-
-[website]: https://sahilmalla.com.np
-[youtube]: https://youtube.com/
-[discord]: https://discord.gg/6BQCyhd8z7
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[facebook]: https://www.facebook.com/sahil.malla.3572
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmallanp&" alt="sahilmallanp" /></p>

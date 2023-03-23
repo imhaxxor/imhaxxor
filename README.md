@@ -1,4 +1,26 @@
 ## 📊 Github Stats
+<h1 align="center">Hi 👋, I'm Sahil Malla</h1>
+<h3 align="center">Hi there 🙆‍♀️, I'm Sahil, a newly developer with a passion for design and content creation.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmallanp&label=Profile%20views&color=0e75b6&style=flat" alt="sahilmallanp" /> </p>
+
+- 🔭 I’m currently **Studying 12th.**
+
+- 🌱 I’m currently learning **everything**
+
+- 🤝 I’m looking for help with **finding projects to contribute to!**
+
+- 👨‍💻 All of my projects are available at [http://entertomy.systems/](http://entertomy.systems/)
+
+- 📫 How to reach me **lifehaker12@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/sahil.malla.3572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sahil.malla.3572" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/lirazimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lirazimi/" height="30" width="40" /></a>
+<a href="https://discord.gg/6BQCyhd8z7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6BQCyhd8z7" height="30" width="40" /></a>
+</p>
+
 
 <span>
 <a href="https://github.com/sahilmallanp">

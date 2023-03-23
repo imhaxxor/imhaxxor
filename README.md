@@ -1,7 +1,7 @@
 ## 📊 Github Stats
 
 <span>
-<a href="https://github.com/RedHeadphone">
+<a href="https://github.com/sahilmallanp">
 <img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=sahilmallanp&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="SahilMalla Github Top Languages" />
 <img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api?username=sahilmallanp&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="SahilMallanp Github Stats" />
 </a>

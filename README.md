@@ -2,6 +2,7 @@
 [![MasterHead](https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif)](http://entertomy.systems/)
 <h1 align="center">Hi 👋, I'm Sahil Malla</h1>
 <h3 align="center">Hi there 🙆‍♀️, I'm Sahil, a newly developer with a passion for design and content creation.</h3>
+<img align="right" alt="Coding" width="400" src="https://www.fastgamsat.com/wp-content/uploads/Yuki-Nagato-typing-and-coding-really-quickly-on-laptop-Suzumiya-Haruhi-no-Yuuutsu-FastGAMSAT.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmallanp&label=Profile%20views&color=0e75b6&style=flat" alt="sahilmallanp" /> </p>
 

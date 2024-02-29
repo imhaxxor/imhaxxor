@@ -6,7 +6,7 @@
 <h3 align="center">Hi there 🙆‍♀️, I'm Sahil, a newly developer with a passion for design and content creation.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.fastgamsat.com/wp-content/uploads/Yuki-Nagato-typing-and-coding-really-quickly-on-laptop-Suzumiya-Haruhi-no-Yuuutsu-FastGAMSAT.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmallanp&label=Profile%20views&color=0e75b6&style=flat" alt="sahilmallanp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imhaxxor&label=Profile%20views&color=0e75b6&style=flat" alt="imhaxxor" /> </p>
 
 - 🔭 I’m currently **Studying 12th.**
 
@@ -27,9 +27,9 @@
 
 
 <span>
-<a href="https://github.com/sahilmallanp">
+<a href="https://github.com/imhaxxor">
 <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmallanp&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="SahilMalla Github Top Languages" />
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=sahilmallanp&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="SahilMallanp Github Stats" />
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=imhaxxor&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="imhaxxor Github Stats" />
 </a>
 </span>
 

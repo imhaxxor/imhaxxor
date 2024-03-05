@@ -28,7 +28,7 @@
 
 <span>
 <a href="https://github.com/imhaxxor">
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmallanp&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="SahilMalla Github Top Languages" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhaxxorp&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="imhaxxor Github Top Languages" />
 <img height="185" src="https://github-readme-stats.vercel.app/api?username=imhaxxor&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="imhaxxor Github Stats" />
 </a>
 </span>
